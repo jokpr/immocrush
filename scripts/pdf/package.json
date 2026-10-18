@@ -1,0 +1,25 @@
+{
+  "name": "immocrush-pdf",
+  "private": true,
+  "type": "module",
+  "description": "Setzt ein Konzeptdokument aus Markdown in ein gesetztes PDF um, inklusive Mermaid-Diagramme.",
+  "scripts": {
+    "pdf": "node render.mjs",
+    "pdf:all": "node render.mjs --all"
+  },
+  "dependencies": {
+    "@fontsource-variable/fraunces": "^5.2.9",
+    "@fontsource/jetbrains-mono": "^5.2.8",
+    "@fontsource/source-sans-3": "^5.2.9",
+    "@fontsource/source-serif-4": "^5.2.9",
+    "mermaid": "^11.12.2",
+    "pdfjs-dist": "^4.10.38",
+    "puppeteer-core": "^24.26.1",
+    "rehype-stringify": "^10.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.2",
+    "unified": "^11.0.5",
+    "unist-util-visit": "^5.1.0"
+  }
+}
