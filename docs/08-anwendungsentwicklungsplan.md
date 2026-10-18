@@ -1,6 +1,6 @@
 # 08 · Anwendungsentwicklungsplan
 
-> Ziel: eine Website und Apps für iOS und Android, gebaut von einem kleinen Team in rund sechs Monaten bis zur Beta, öffentlicher Start im September 2027. Kauf und Miete von Anfang an, kostenlos für alle, finanziert über Extras und Werbung. Grundsatz: eine Sprache (TypeScript) für alles, bewährte Dienste einkaufen, selbst bauen nur, was uns unterscheidet: Feed und Matching, Producer und Steckbrief.
+> Ziel: eine Website und Apps für iOS und Android, gebaut von einem sehr kleinen, KI-getriebenen Team – zwei erfahrene Entwickler, die Coding-Agenten führen – in rund sechs Monaten bis zur Beta, öffentlicher Start im September 2027. Kauf und Miete von Anfang an, kostenlos für alle, finanziert über Extras und Werbung. Grundsatz: eine Sprache (TypeScript) für alles, bewährte Dienste einkaufen, selbst bauen nur, was uns unterscheidet: Feed und Matching, Producer und Steckbrief.
 
 ## 1. Plattformen
 
@@ -319,24 +319,36 @@ Gearbeitet wird in Zwei-Wochen-Sprints; S1 bis S4 fassen jeweils zwei Sprints zu
 | Launch | 1. September 2027 | Veröffentlichung in App Store und Google Play |
 | V1 | 15. Sep 2027 – 28. Feb 2028 | Funktionen der Spalte V1 aus Abschnitt 8 |
 
-**Puffer:** Der Plan ist ambitioniert, und der Umfang ist mit Miete, Video-Upload, Suche, Extras und Werbung deutlich gewachsen. Deshalb plant das Team mit 3–4 statt 2–3 Entwicklern. Wenn es eng wird, verschieben wir Funktionen nach V1, nicht den Starttermin der Beta. Kandidaten dafür: Swipe-Insights, Reaktionen, Extras (dann ab Q4 2027), Nachfrage-Check für Miete, weitere Themen-Feeds.
+**Puffer:** Der Umfang ist mit Miete, Video-Upload, Suche, Extras und Werbung groß. Zwei Entwickler mit Coding-Agenten schaffen ihn nach den Vergleichswerten aus dem [Geschäftsmodell](05-geschaeftsmodell.md) in diesem Zeitraum. Den Zeitplan bestimmen ohnehin weniger der Code als Inventar, Store-Reviews und Beta-Erkenntnisse. Wir prüfen nach S3 (Anfang Mai): Liegt das Team mehr als zwei Wochen zurück, kommt ein freiberuflicher Entwickler für einzelne Module dazu. Wenn es dann noch eng wird, verschieben wir Funktionen nach V1, nicht den Starttermin der Beta. Kandidaten dafür: Swipe-Insights, Reaktionen, Extras (dann ab Q4 2027), Nachfrage-Check für Miete, weitere Themen-Feeds.
 
-## 10. Team
+## 10. Team und KI-getriebene Entwicklung
 
-| Rolle | Phase 0 (Nov – Jan) | Phase 1 (Feb 2027 – Feb 2028) | Phase 2 (2028) |
-|---|---|---|---|
-| Gründer: Produkt, Branche, Makler-Netzwerk | ✓ | ✓ | ✓ |
-| CTO / Lead Engineer, idealerweise Mitgründer | Suche, Architektur | ✓ | ✓ |
-| Full-Stack-Entwickler (TypeScript, React, React Native) | – | 3–4 | 5–7 |
-| Product Designer (UX, UI, Motion) | freiberuflich für den Prototyp | 1 | 1–2 |
-| KI- und Video-Engineer | freiberuflich für den Video-Benchmark | 0,5–1 | 1–2 |
-| Qualitätssicherung | – | ab der Beta, Teilzeit | 1 |
-| Growth, Content und Social Media | Gründer, freiberufliche Unterstützung | 1–2 | 3–5 |
-| Vertrieb für Makler, Hausverwaltungen und Werbekunden | Gründer | 1 ab Phase 1a | 3–5 |
-| Support und Moderation | – | ab der Beta, 1–2 | 2–4 |
-| extern: Datenschutzbeauftragter, Kanzlei, Steuerberatung | Erstberatung | laufend | laufend |
+**Leitidee:** Agenten übernehmen die Menge, Menschen das Urteil. Wir stellen keine Leute ein, um schneller zu werden – dafür gibt es Agenten. Wir stellen Leute ein, wo ein verantwortlicher Mensch gebraucht wird: für Architektur und Qualität, für Makler und Werbekunden, für Moderation und Vertrauen.
 
-Eine Agentur kann den Design-Sprint oder einzelne Module übernehmen. Feed und Matching, Producer-Pipeline und Steckbrief gehören aber ins eigene Team – sie sind der Kern des Unternehmens.
+| Rolle | Phase 0 (Nov – Jan) | Phase 1 bis zum Launch (Feb – Aug 2027) | nach dem Launch (Sep 2027 – Aug 2028) | Phase 2 (ab Herbst 2028) |
+|---|---|---|---|---|
+| Gründer: Produkt, Branche, Makler-Netzwerk, Gründungs-Werbepartner | ✓ | ✓ | ✓ | ✓ |
+| CTO / Lead Engineer, idealerweise Mitgründer | Suche; Landingpage, Web-Quiz und Prototyp mit Agenten | ✓ | ✓ | ✓ |
+| Senior-Full-Stack-Entwickler (TypeScript, React, React Native), sicher im Umgang mit Agenten | – | 1 | 1–2 | 2–3 |
+| Product Design (UX, UI, Motion) | freiberuflich für den Prototyp | freiberuflich, 1–1,5 Tage pro Woche | freiberuflich | 1 |
+| KI und Video | Video-Benchmark durch den CTO, bei Bedarf wenige Tage freiberuflich | im Entwicklerteam | im Entwicklerteam | im Entwicklerteam oder 1 |
+| Qualitätssicherung | – | automatisierte Tests und Agenten-Reviews; Beta-Tester | wie Phase 1 | Teilzeit |
+| Growth, Content und Social Media | Gründer | 1 ab April 2027, mit KI für Schnitt, Texte und Varianten | 1 | 2–3 |
+| Vertrieb für Makler, Hausverwaltungen und Werbekunden | Gründer | Gründer | 1 ab dem Launch | 2–3 |
+| Support und Moderation | – | Gründer in der Beta, KI als erste Stufe | KI als erste Stufe, eine Teilzeitkraft oder Werkstudent | 1–2 |
+| extern: Datenschutzbeauftragter, Kanzlei, Steuerberatung | Erstberatung | laufend | laufend | laufend |
+
+**So arbeiten wir mit Agenten**
+
+- **Spezifikation zuerst:** Jede Funktion beginnt als kurze Beschreibung im Repository: Ziel, Akzeptanzkriterien, Ereignisse für die Messung. Agenten arbeiten danach, Menschen prüfen das Ergebnis gegen die Beschreibung.
+- **Mehrere Agenten parallel:** Jeder Entwickler führt mehrere Agenten gleichzeitig, lokal und in der Cloud, etwa einen für die Website, einen für die App, einen für Tests. Die Menschen schneiden Aufgaben, entscheiden über Architektur und geben frei.
+- **Kleine Schritte:** kleine Pull Requests, täglich mehrfach in den Hauptzweig, Feature-Flags. So bleibt das Review schaffbar, und Fehler fallen früh auf.
+- **Automatische Qualitätsschranken:** Typprüfung, Unit-, Integrations- und End-to-End-Tests, Tests der Row-Level-Security-Regeln, automatisierte Code-Reviews und Sicherheits-Scans laufen bei jeder Änderung. Agenten schreiben die Tests mit; Menschen legen fest, was getestet werden muss.
+- **Menschen bleiben verantwortlich:** Matching und faire Inbox, Stufenmodell und Dokumenten-Tresor, Zahlungen und Datenschutz prüft immer ein Mensch Zeile für Zeile. Hier zählen Korrektheit und Recht mehr als Tempo.
+- **Wissen im Repository:** Architekturentscheidungen, Spezifikationen und Regeln für Agenten liegen im Repository. Das macht Agenten besser und senkt das Risiko, wenn jemand ausfällt.
+- **Kosten im Blick:** Ausgaben für Agenten und KI-Modelle messen wir pro Woche und Person. Sie sind gewollt, sollen aber nicht unbemerkt wachsen.
+
+Eine Agentur brauchen wir nicht. Feed und Matching, Producer-Pipeline und Steckbrief gehören ins eigene Team – sie sind der Kern des Unternehmens. Für einzelne, klar abgegrenzte Module (etwa den OpenImmo-Import) kann ein Freelancer einspringen.
 
 ## 11. Kaufen oder selbst bauen
 
@@ -363,14 +375,15 @@ Eine Agentur kann den Design-Sprint oder einzelne Module übernehmen. Feed und M
 
 | Posten | pro Monat bis zum Launch | pro Monat nach dem Launch | Bemerkung |
 |---|---|---|---|
-| Team | 55–85 Tsd. € | 65–100 Tsd. € | rund 8–11 Vollzeitstellen inklusive Arbeitgeberkosten, teils freiberuflich; nach dem Launch mehr Support, Content und Vertrieb |
-| Infrastruktur (Supabase, Railway, Vercel, Video, Karten und Routing, E-Mail) | 1–3 Tsd. € | 5–20 Tsd. € | größter Posten: Video-Auslieferung; Ziel unter 0,10 € pro aktivem Nutzer |
-| KI-Nutzung (Text, Bild, Video) | 0,5–2 Tsd. € | 1–5 Tsd. € | Basis unter 1 € pro Inserat, aufwendige Funktionen als Extras |
-| Werkzeuge (Design, Analytics, Fehlerüberwachung, Projektmanagement, Einwilligungs-Management) | 1–2 Tsd. € | 1–3 Tsd. € | |
-| Datenschutzbeauftragter und Rechtsberatung | 1–3 Tsd. € | 1–3 Tsd. € | in der Startphase höher |
+| Team | 20–35 Tsd. € | 30–60 Tsd. € | bis zum Launch zwei Entwickler, Design freiberuflich, Growth ab April, Gründer; danach 5–8 Personen inklusive Gründer und Teilzeit; jeweils inklusive Arbeitgeberkosten (Aufschlüsselung im [Geschäftsmodell](05-geschaeftsmodell.md)) |
+| KI-Werkzeuge für das Team (Coding-Agenten, Design- und Content-KI) | 1–2,5 Tsd. € | 1,5–3 Tsd. € | 300–1.000 € pro Entwickler, weil mehrere Agenten parallel laufen; Spitzentarife kosten rund 200 $ pro Person |
+| Infrastruktur (Supabase, Railway, Vercel, Video, Karten und Routing, E-Mail) | 0,5–2 Tsd. € | 4–15 Tsd. € | vor dem Launch weitgehend Einstiegstarife; danach größter Posten: Video-Auslieferung; Ziel unter 0,10 € pro aktivem Nutzer |
+| KI-Nutzung im Produkt (Text, Bild, Video) | 0,5–1,5 Tsd. € | 1–4 Tsd. € | Basis unter 1 € pro Inserat, aufwendige Funktionen als Extras |
+| Werkzeuge (Analytics, Fehlerüberwachung, Projektmanagement, Einwilligungs-Management) | 0,5–1,5 Tsd. € | 1–2 Tsd. € | |
+| Datenschutzbeauftragter und Rechtsberatung | 1–2 Tsd. € | 1–2 Tsd. € | in der Startphase höher |
 | Apple Developer Program | 99 $ pro Jahr | | |
 | Google Play Console | 25 $ einmalig | | |
-| einmalig vor dem Launch | 20–50 Tsd. € | | Design-System, Penetrationstest, rechtliche Prüfung, Markenanmeldung, Musiklizenzen |
+| einmalig vor dem Launch | 20–40 Tsd. € | | rechtliche Prüfung (10–20 Tsd. €), Penetrationstest, Markenanmeldung, Musiklizenzen; das Design-System entsteht KI-gestützt im Team |
 
 Das Marketing ist hier nicht enthalten; Budget-Szenarien stehen in der [Go-to-Market-Strategie](07-go-to-market-strategie.md) und im [Geschäftsmodell](05-geschaeftsmodell.md).
 
@@ -420,4 +433,5 @@ Das Marketing ist hier nicht enthalten; Budget-Szenarien stehen in der [Go-to-Ma
 5. **Jede Funktion wird gemessen.** Ereignisse und Erfolgskriterium werden vor dem Bau festgelegt.
 6. **KI bleibt austauschbar.** AI Gateway, versionierte Prompts, Kosten pro Job.
 7. **Entscheidungen werden dokumentiert.** Architecture Decision Records in `docs/adr`.
-8. **Bewährte Technik vor Experimenten.**
+8. **Bewährte Technik vor Experimenten.** Ein verbreiteter, typisierter Stack hilft auch den Agenten: Sie kennen ihn gut und machen weniger Fehler.
+9. **Agenten schreiben, Menschen entscheiden.** Mehr Tempo braucht stärkere Tests, nicht mehr Personal. Kern-Logik, Datenschutz und Zahlungen prüft immer ein Mensch.

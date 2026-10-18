@@ -37,7 +37,7 @@ Geplant sind eine **Website** sowie **Apps für iOS und Android**.
 2. **Die Zahlungsbereitschaft ist da – wir nutzen sie anders.** ohne-makler.net verlangt 129–399 € pro Verkaufsinserat, ImmoScout24 verkauft Suchenden ein Abo für bis zu 39,99 € im Monat. Bei immocrush sind Inserieren und Suchen kostenlos.
 3. **Die Miete ist der größte Schmerz.** Auf die meistgesuchten Berliner Mietwohnungen kommen im Schnitt 373 Anfragen am Tag. Seit Januar 2026 regeln die Datenschutzbehörden genau, was Vermieter wann fragen dürfen – unser Steckbrief folgt diesen Stufen.
 4. **„Sofort bei Google“ geht nur mit Anzeigen.** In den normalen Suchergebnissen dauert „Immobiliensuche“ Jahre; lokale Suchbegriffe und Videos gehen deutlich schneller.
-5. **Kostenlos plus Werbung braucht Reichweite.** Die Gewinnschwelle liegt grob bei 0,5–1,2 Mio. aktiven Nutzern im Monat. Bis Herbst 2028 braucht es 1,3–3,1 Mio. € mit Fokus, 2,8–5,1 Mio. € mit Vollgas und 4,8–8,1 Mio. € mit TV. Ohne Investoren ist „Fokus“ realistisch.
+5. **Schlank bauen, in Reichweite investieren.** Zwei erfahrene Entwickler mit KI-Coding-Agenten bauen Website und Apps bis zum Launch für 0,2–0,35 Mio. €. Bis Herbst 2028 braucht es 0,6–2,2 Mio. € mit Fokus, 2,1–4,2 Mio. € mit Vollgas und 4,1–7,2 Mio. € mit TV – der größte Posten ist das Marketing. Die Gewinnschwelle liegt grob bei 0,4–1 Mio. aktiven Nutzern im Monat. Ohne Investoren ist „Fokus“ realistisch.
 6. **„Die Höhle der Löwen“ ist eine Investoren-Show.** Sie passt nur, wenn die Gründer zu einem Deal bereit sind.
 7. **Der Name bleibt das dringendste Thema:** „ImmoCrush“ (Frankreich) und Immocrush Sàrl (Genf, Inhaber von immocrush.com) existieren. Die Markenprüfung muss vor jedem Marketing kommen.
 

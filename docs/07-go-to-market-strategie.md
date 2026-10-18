@@ -289,7 +289,7 @@ Alles grün: Vollgas vorbereiten. Gemischt: mit Fokus starten. Mehrere Kriterien
 
 - **Gründungs-Werbepartner (Warm-up und Phase 1a):** 5–10 Partner, einer pro Branche, mit Exklusivität im ersten Jahr und vorab bezahlten Jahrespaketen. Sie empfehlen uns zugleich ihren Kunden.
 - **Mediadaten und Preisliste ab Phase 1a.** Erste Formate zum Launch: Partner-Karten im Feed und Sponsoring von Themen-Feeds.
-- **Vertrieb:** eine Person für Werbevermarktung ab Phase 1a; später Agenturen und Vermarkter; Self-Service für lokale Dienstleister im Verzeichnis „Profis in der Nähe“.
+- **Vertrieb:** bis zum Launch die Gründer, ab dem Launch eine Person für Werbevermarktung und Makler-Vertrieb; später Agenturen und Vermarkter; Self-Service für lokale Dienstleister im Verzeichnis „Profis in der Nähe“.
 - **Was wir verkaufen:** Kontext statt Profile – Kauf oder Miete, Region, Objektart, Umzugsmoment. Personalisierte Werbung nur mit Einwilligung.
 - **Beispiel:** Ein regionales Möbelhaus mit drei Filialen will junge Paare vor dem Umzug erreichen. Es bucht den Themen-Feed „Erstes Zuhause“ und Partner-Karten in seiner Fokusstadt und erscheint im Umzugsplaner bei Mietsuchenden, die gerade eine Zusage bekommen haben.
 

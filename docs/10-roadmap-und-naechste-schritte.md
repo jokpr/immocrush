@@ -21,7 +21,7 @@
 - [ ] Freie Domains und Social-Media-Handles sichern
 - [ ] Rechtsform klären und Gründung vorbereiten
 - [ ] **Finanzrahmen klären:** Wie viel Eigenkapital steht bereit? Förderkredite (KfW, Landesförderbank) und Zuschüsse prüfen. Das entscheidet zwischen „Fokus“ und „Vollgas“ ([Geschäftsmodell](05-geschaeftsmodell.md))
-- [ ] Budget für das Warm-up freigeben (15–35 Tsd. €)
+- [ ] Budget für das Warm-up freigeben (10–25 Tsd. €)
 - [ ] 2–3 Kandidaten für die Fokusstädte festlegen
 - [ ] Landingpage und Web-Quiz bauen (Wohntraum-Quiz und Wohntyp-Test, Kauf und Miete)
 - [ ] **Google-Recherche:** Suchvolumen und Klickpreise für „Immobiliensuche“, „Wohnung mieten [Stadt]“, „kostenlos inserieren“ und „Haus verkaufen ohne Makler“
@@ -44,7 +44,7 @@
 - [ ] Ampel-Auswertung nach den Kriterien aus der [Go-to-Market-Strategie](07-go-to-market-strategie.md)
 - [ ] Budget-Szenario entschieden (Fokus, Vollgas, Vollgas mit TV), Finanzierung gesichert
 - [ ] Fokusstädte entschieden
-- [ ] Team für den Entwicklungsstart am 1. Februar steht (technische Leitung, 3–4 Entwickler, Design)
+- [ ] Team für den Entwicklungsstart am 1. Februar steht (technische Leitung, ein weiterer Senior-Entwickler mit Erfahrung in KI-getriebener Entwicklung, Design freiberuflich)
 - [ ] erste Gründungs-Werbepartner unterschrieben, Gründungspartner unter den Maklern bestätigt
 - [ ] Marke angemeldet
 - [ ] Gesellschaft gegründet, D-U-N-S-Nummer beantragt, Konten angelegt (Apple, Google, Supabase, Vercel, Railway, Expo, PostHog, Sentry, Stripe)
@@ -73,7 +73,7 @@
 | Rechtsform | UG oder GmbH | GmbH – schafft Vertrauen bei Maklern, Hausverwaltungen und Werbekunden | November 2026 |
 | „Die Höhle der Löwen“ | bewerben oder nicht | nur mit echter Bereitschaft zu einem Deal und einer Obergrenze für Anteile; sonst Connected TV und TV-Presse | Dezember 2026 |
 | Rolle der Gründer als Makler | weiter aktiv oder ruhen lassen | in jedem Fall schriftliche Neutralitätsregeln | Dezember 2026 |
-| Technische Leitung | Mitgründer, Agentur, Freelancer | technischer Mitgründer mit 3–4 Entwicklern; Agentur höchstens für den Design-Sprint | Dezember 2026 |
+| Technische Leitung | Mitgründer, Agentur, Freelancer | technischer Mitgründer plus ein Senior-Entwickler, beide KI-getrieben; keine Agentur | Dezember 2026 |
 | Budget-Szenario | Fokus, Vollgas, Vollgas mit TV | mit „Fokus“ planen, „Vollgas“ vorbereiten | Ende Januar 2027 |
 | Finanzierung | Eigenkapital, Förderkredite, Gründungs-Werbepartner, Crowdinvesting, Media-for-Revenue | Kombination, siehe [Geschäftsmodell](05-geschaeftsmodell.md) | Ende Januar 2027 |
 | Fokusstädte | Berlin, Köln, Hamburg, München, Bremen/Niedersachsen, Heimatregion | eine Metropole mit hohem Mietdruck plus Heimatregion, nach den Warm-up-Daten | Ende Januar 2027 |
@@ -109,7 +109,7 @@
 | 7 | Datenschutz- oder Diskriminierungsvorwürfe, gerade bei der Vermietung | mittel | hoch | Stufenmodell nach DSK, faire Filter, Folgenabschätzung, Transparenz |
 | 8 | Betrug, Fake-Inserate und Mietbetrug | mittel | hoch | Verifizierung, Moderation, Warnungen bei Vorkasse, Betrugserkennung |
 | 9 | Rechtsprobleme mit Inhalten: irreführende KI-Bilder, fremde Musik oder Personen in Videos | mittel | mittel | Leitplanken, Kennzeichnung, Rechte-Bestätigung, „Musik ersetzen“, Melde-Verfahren |
-| 10 | Die Entwicklung verzögert sich, weil der Umfang gewachsen ist | mittel | mittel | 3–4 Entwickler, Umfang statt Termin verschieben, eingekaufte Dienste, Puffer |
+| 10 | Die Entwicklung verzögert sich oder hängt an zu wenigen Köpfen | mittel | mittel | Coding-Agenten mit starken automatischen Tests, Wissen im Repository, Prüfpunkt nach S3 mit freiberuflichem Entwickler als Reserve, Umfang statt Termin verschieben, eingekaufte Dienste |
 
 ## 6. Diese Woche
 

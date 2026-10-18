@@ -169,7 +169,7 @@ Wir starten mit **Kauf und Miete** von Wohnungen und Häusern. Die Miete bekommt
 3. **Vollgas braucht Geld.** Ein bundesweiter Auftritt mit TV kostet schnell mehrere Millionen Euro. Ohne Investoren muss das aus Eigenkapital, Krediten, vorverkauften Werbepaketen und frühen Einnahmen kommen (siehe [Geschäftsmodell](05-geschaeftsmodell.md)).
 4. **Werbung braucht Reichweite.** Spürbare Werbeeinnahmen gibt es erst ab Hunderttausenden aktiven Nutzern im Monat. Bis dahin tragen Extras und Gründungs-Werbepartner.
 5. **Vertrauen und Recht.** Vermietung hat strenge Regeln: Die Datenschutzbehörden legen genau fest, was Vermieter wann fragen dürfen, dazu kommt der Diskriminierungsschutz. Das sind keine Fußnoten, sondern Produktanforderungen.
-6. **Die IT ist lösbar.** Website und Apps für iOS und Android, Kauf und Miete, sind mit heutigen Werkzeugen in gut sechs Monaten mit einem kleinen Team machbar.
+6. **Die IT ist lösbar – und günstiger als gedacht.** Website und Apps für iOS und Android, Kauf und Miete, bauen zwei erfahrene Entwickler mit KI-Coding-Agenten in gut sechs Monaten. Bis zum Launch kostet das alles in allem 0,2–0,35 Mio. €. Das Geld fließt damit vor allem in Reichweite, nicht in Code (siehe [Geschäftsmodell](05-geschaeftsmodell.md)).
 
 ### Fazit
 
