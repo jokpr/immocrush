@@ -1,6 +1,6 @@
 # 06 · Marke, Name & Domains
 
-> Kurzfassung: Der Name „immocrush“ ist gut, aber rechtlich nicht frei von Risiken. Eine französische App heißt bereits „ImmoCrush“ und macht etwas Ähnliches, die .com-Domain gehört einem Schweizer Wohn-Startup. **Bevor Geld in Marketing fließt, muss die Namensfrage geklärt sein.**
+> Kurzfassung: Der Name „immocrush“ ist gut, aber rechtlich nicht frei von Risiken. Eine französische App heißt bereits „ImmoCrush“ und macht etwas Ähnliches, die .com-Domain gehört einem Schweizer Wohn-Startup. **Bevor Geld in Marketing fließt, muss die Namensfrage geklärt sein.** Das gilt umso mehr, weil das Marketing direkt mit Vollgas starten soll: Ein Namenswechsel nach Plakaten, Creator-Kampagnen oder gar TV wäre extrem teuer.
 
 ## 1. Namenskonflikte
 
@@ -45,12 +45,12 @@ Nach der Veröffentlichung können Inhaber älterer Marken drei Monate lang Wide
 |---|---|---|---|
 | **A** | „immocrush“ für alles | starker, emotionaler Name; .de vermutlich schon gesichert | Konflikt mit der französischen App und dem Genfer Startup; .com nicht verfügbar |
 | **B** | „IMMOVIE“ als Dachmarke | betont Video, witzig („Immo-Movie“), eventuell markenrechtlich freier | erklärt das Matching nicht; immovie.com ist ein Premium-Kauf, immovie.de vergeben |
-| **C** | „immocrush“ für die Matching-App, „immovie by immocrush“ für das KI-Studio | jede Marke erzählt ihre Stärke; Studio kann eigenständig wachsen (auch für Makler) | zwei Marken pflegen; „immocrush“ bleibt Voraussetzung |
+| **C** | „immocrush“ für das Portal, „immovie by immocrush“ für den Producer-Bereich | jede Marke erzählt ihre Stärke; der Producer kann eigenständig wachsen (auch für Makler) | zwei Marken pflegen; „immocrush“ bleibt Voraussetzung |
 | **D** | neuer Name | sauberer Neustart, alle Domains und Handles frei wählbar | Zeit und Geld für Namensfindung, Abschied vom Lieblingsnamen |
 
-**Empfehlung:** Option **C**, wenn die Markenrecherche für „immocrush“ in Deutschland und der EU grünes Licht gibt. Andernfalls B oder D. Entscheidung **bis Mitte November 2026**, also vor den ersten Werbetests in Phase 0.
+**Empfehlung:** Option **C**, wenn die Markenrecherche für „immocrush“ in Deutschland und der EU grünes Licht gibt. Andernfalls B oder D. Entscheidung **bis Mitte November 2026**, also vor den ersten Werbetests im Warm-up.
 
-Für Option D: Workshop mit 30–50 Kandidaten (kurz, deutsch aussprechbar, emotional, mit Bezug zu Zuhause und Verlieben), danach Schnellcheck von Marke, Domain und Handles und ein Klicktest mit Anzeigen in Phase 0.
+Für Option D: Workshop mit 30–50 Kandidaten (kurz, deutsch aussprechbar, emotional, mit Bezug zu Zuhause und Verlieben), danach Schnellcheck von Marke, Domain und Handles und ein Klicktest mit Anzeigen im Warm-up.
 
 ## 4. Domains
 
@@ -65,7 +65,7 @@ Stand 17.10.2026, per DNS- und WHOIS-Abfrage, ohne Gewähr:
 | getimmocrush.com | frei | sichern, z. B. für internationale Links und App-Store-Seiten |
 | immocrush.eu | frei | sichern (Schutz und Expansion) |
 | immocrush.at | frei | sichern (Österreich ist ein naheliegender Expansionsmarkt) |
-| immocrush.berlin | frei | nur, wenn Berlin Startregion wird |
+| immocrush.berlin | frei | nur, wenn Berlin Fokusstadt wird |
 | immocrush.click | frei | nicht als Hauptdomain – wirkt unseriös; nicht nötig |
 | immovie.com | vergeben, wird über die Domainbörse Afternic angeboten | bei Option B oder C Preis anfragen |
 | immovie.eu | frei | bei Option B oder C sichern |
@@ -85,25 +85,48 @@ Eine registrierte Domain ist kein Markenrecht. Sie schützt den Namen nicht, und
   - keine Makler-Floskeln („lichtdurchflutete Wohlfühloase“)
   - für Makler und Partner: sachlicher, mit Zahlen
 - **Gestaltung:** Video im Mittelpunkt, warme Farben, echte Menschen und echte Zuhause. Keine Anlehnung an die Gestaltung bekannter Dating-Apps.
-- **Haltung:** fair (keine Diskriminierung), transparent (KI gekennzeichnet, Match-Wert erklärt), respektvoll mit Daten („Wir verkaufen keine Profile“).
+- **Haltung:** fair (keine Diskriminierung, kein Vorrang gegen Geld), transparent (KI und Werbung gekennzeichnet, Match-Wert erklärt), respektvoll mit Daten („Wir verkaufen keine Profile“), großzügig (kostenlos für alle).
 
 ## 6. Claims und Slogans
 
-**Für Käufer**
+**Dachmarke**
 
 - „Liebe auf den ersten Swipe.“
-- „Dein Zuhause sucht dich auch.“
 - „Swipe dich nach Hause.“
 
-**Für Verkäufer**
+**Für Käufer**
 
+- „Dein Zuhause sucht dich auch.“
+
+**Für Mietsuchende**
+
+- „Bei uns zählt, wer passt – nicht, wer zuerst tippt.“
+- „Wohnungssuche ohne Wettrennen.“
+- „Niemand kauft sich nach vorn. Versprochen.“
+
+**Für Zuschauer**
+
+- „Immobilien, die man sich gern ansieht – auch ohne Umzugspläne.“
+- „Heute nur gucken. Morgen vielleicht einziehen.“
+
+**Für Verkäufer und Vermieter**
+
+- „Kostenlos inserieren. Für alle.“
 - „Dein Zuhause verdient einen Film.“
 - „Verkauf an Menschen, die dein Zuhause wirklich wollen.“
+- „Statt 400 Mails: die 20, die passen.“
 
-**Für Makler**
+**Für Makler und Bauträger**
 
+- „Deine Videos verdienen mehr als einen Feed.“
 - „Wisse, wer kauft – bevor du inserierst.“
 - „Deine Suchkunden-Kartei, die sich selbst pflegt.“
+
+**Für Werbekunden**
+
+- „Erreiche Menschen genau dann, wenn sie ihr Leben neu einrichten.“
+
+Werbung mit „kostenlos“ muss stimmen: Das Basisangebot ist wirklich kostenlos, Extras sind klar als kostenpflichtig erkennbar (siehe [Recht](09-recht-datenschutz-compliance.md)).
 
 ## 7. Vorsicht bei Tinder-Vergleichen
 

@@ -1,130 +1,210 @@
 # 05 · Geschäftsmodell
 
-> Grundsatz aus dem Ausgangstext: kostenlos wie Instagram, Geld verdienen mit besonderen Services, Werbung und Daten. Wir setzen das so um, dass es rechtssicher ist und das Vertrauen der Nutzer stärkt.
+> „Ich stelle es mir vor wie bei Instagram – man zahlt nichts, es sei denn man nimmt besondere Dienste in Anspruch. […] Unser Geld verdienen wir mit den Extras […] und der Werbung.“ – Gründer, 18.10.2026
+
+Kurz gesagt: **Suchen und Inserieren sind für alle kostenlos.** Geld verdienen wir mit zwei Säulen: **Extras** für Anbieter, die mehr Sichtbarkeit wollen, und **Werbung** von Unternehmen rund ums Wohnen. Das Vorbild für das Erlösmodell ist Kleinanzeigen, das Vorbild für Funktionsumfang und Struktur sind ImmoScout24 und immowelt.
 
 ## 1. Was kostenlos bleibt
 
-- Suchen, Swipen, Matchen, Chatten
-- Wohntraum-Quiz, Wohntyp-Test, Käufer-Steckbrief, Motivationsschreiben
-- Inserieren für Privatverkäufer, inklusive Basis-KI-Studio (Video, Texte, Pflichtangaben-Check)
-- Nachfrage-Check für Eigentümer
-- Inventar-Import für Makler per Schnittstelle
+**Für Suchende – immer und vollständig:** Suchen, Swipen, Matchen, Chatten, Wohntraum-Quiz, Wohntyp-Test, Steckbrief, Motivationsschreiben, Matches per E-Mail und App, Unterhaltung. Suchende zahlen bei uns nie, auch nicht für Vorrang.
 
-Kostenlos ist bei uns kein Lockangebot, sondern Teil des Modells: Je mehr Menschen suchen und inserieren, desto wertvoller werden die Leistungen, für die Unternehmen bezahlen.
+**Für Anbieter – das Basisangebot, privat wie gewerblich:**
 
-## 2. Erlösquellen
+- Inserieren für Verkauf und Vermietung: für Private bis zu 3 aktive Inserate gleichzeitig (wer mehr hat, ist meist gewerblich), für Makler, Bauträger und Hausverwaltungen ohne Begrenzung, auch per Import aus der Makler-Software
+- Producer-Bereich: vorhandene Videos hochladen (bis 90 Sekunden), Film aus Fotos mit Kamerafahrten, Texte, Pflichtangaben-Check
+- Inbox mit Steckbriefen, fairen Filtern, Anfrage-Bremse und Bewerbungsfenster
+- Nachfrage-Check und Basis-Statistiken
 
-| # | Erlösquelle | Wer zahlt | Preis-Hypothese | Start |
-|---|---|---|---|---|
-| 1 | **Verkäufer-Plus:** Top-Platzierung 30 Tage, Home Staging, KI-Sprecher, Exposé-PDF, erweiterte Swipe-Insights | Privatverkäufer | 49–99 € einmalig pro Inserat | Q4 2027 |
-| 2 | **Verkäufer-Premium:** Plus, dazu Fotograf vor Ort, Grundriss, Energieausweis über Partner, 60 Tage Top-Platzierung | Privatverkäufer | 299–799 € einmalig | Q4 2027 |
-| 3 | **Makler Pro:** Studio mit Büro-Branding ohne Limit, Käufer-Radar, Team-Inbox, CRM-Export, Statistiken | Makler | 99–249 € pro Monat und Büro, je nach Größe | Q1 2028 |
-| 4 | **Eigentümer-Kontakte:** Eigentümer, die ausdrücklich mit einem Makler sprechen wollen (z. B. nach dem Nachfrage-Check) | Makler | 150–400 € pro Kontakt | Q1 2028 |
-| 5 | **Finanzierungs-Kontakte:** Käufer, die eine Finanzierungsberatung wünschen, an Partner vermitteln (Tippgeber-Modell) | Baufinanzierer | 50–150 € pro qualifiziertem Kontakt oder Umsatzbeteiligung | Q4 2027 |
-| 6 | **Dienstleister-Marktplatz & Werbung:** Energieausweis, Gutachter, Fotografen, Umzug, Handwerk; gekennzeichnete Partnerplätze | Dienstleister | 10–20 % Provision oder 10–50 € pro Kontakt; Werbeplätze ab 100 € pro Monat | 2028 |
-| 7 | **Bauträger & Neubau:** Projektkampagnen an passende Käufer | Bauträger | 1.000–10.000 € pro Projekt | 2028 |
-| 8 | **Markt-Insights:** anonymisierte, aggregierte Nachfrage-Analysen (Dashboards, Reports) | Banken, Projektentwickler, Investoren, Kommunen | 500–5.000 € pro Monat | 2028 |
-| 9 | **Käufer-Plus:** Komfortfunktionen wie mehr Super-Crushes, erweiterter Marktreport, Preisverlauf | Käufer | 4,99–9,99 € pro Monat | Test 2029 |
-| 10 | **Concierge:** Begleitung für Privatverkäufer (Preisfindung, Besichtigungen, Verhandlung, Notar) | Privatverkäufer | Festpreis, z. B. 1.490–3.990 € | optional, frühestens 2029 |
+Kostenlos ist bei uns kein Lockangebot, sondern der Kern des Modells: Je mehr Menschen suchen, zuschauen und inserieren, desto wertvoller werden Extras und Werbeplätze.
 
-**Hinweise**
+> **Zum Vergleich:** ohne-makler.net verlangt für ein Verkaufsinserat 129–399 €, für ein Mietinserat 49–229 €. ImmoScout24 und immowelt sind für Private kostenpflichtig, ImmoScout24 verkauft zusätzlich Suchenden ein Abo für bis zu 39,99 € im Monat.
 
-- Nr. 4, 5 und 10 berühren das Makler- und Finanzierungsrecht (§ 34c und § 34i GewO). Vor dem Start rechtlich prüfen lassen, siehe [Recht](09-recht-datenschutz-compliance.md).
-- Käufer-Plus darf niemals einen besseren Platz in der Verkäufer-Inbox oder einen höheren Match-Wert kaufen. Vorrang gibt es nur durch Vollständigkeit und Verifizierung. Sonst verliert das Matching seine Glaubwürdigkeit.
-- Concierge macht uns teilweise zum Makler. Das geht nur mit Erlaubnis nach § 34c GewO und klaren Neutralitätsregeln: Eigene Objekte werden im Feed nicht bevorzugt.
+## 2. Säule 1: Extras für Anbieter
 
-## 3. Daten als Ware – richtig gemacht
+| Extra | Für wen | Preis-Hypothese |
+|---|---|---|
+| Hervorhebung (30 Tage) | alle Anbieter | 9–19 € pro Inserat |
+| Top-Platzierung (14 Tage) | alle Anbieter | 19–49 € pro Inserat |
+| Große Anzeige (30 Tage) | alle Anbieter | 19–39 € pro Inserat |
+| Lange Videos (bis 10 Minuten) | alle Anbieter | 9–19 € pro Inserat |
+| Hochschieben | alle Anbieter | 4,99–9,99 € |
+| KI-Extras: Home Staging, KI-Sprecher, Grundriss, Exposé-PDF | alle Anbieter | 4,99–29 € je Funktion |
+| Paket Plus (Hervorhebung, Top-Platzierung, lange Videos, KI-Extras) | private Anbieter | 49–99 € pro Inserat |
+| Paket Premium (Plus und Fotograf oder Videograf vor Ort) | private Anbieter | 299–799 € pro Inserat |
+| Sichtbarkeits-Pakete (monatliches Kontingent an Extras) | Makler, Bauträger, Hausverwaltungen | 49–299 € pro Monat |
+| Pro-Werkzeuge (Käufer-Radar, Team-Inbox, CRM-Weiterleitung, Kanal-Branding) | Makler, Bauträger, Hausverwaltungen | 49–149 € pro Monat |
+
+**Regeln für Extras:**
+
+- Extras bringen Sichtbarkeit im Feed und in den Suchergebnissen – **nie einen besseren Platz in der Inbox** der Anbieter und nie einen höheren Match-Wert.
+- Bezahlte Platzierungen sind immer gekennzeichnet („Gesponsert“, „Highlight“).
+- Auch gesponserte Inserate erscheinen nur bei Suchenden, zu denen sie grundsätzlich passen.
+
+## 3. Säule 2: Werbung rund ums Wohnen
+
+> „Da wir mehr auf Lifestyle und Lebensgefühl bei der Immobiliensuche setzen, kommt einiges zusammen.“ – Gründer, 18.10.2026
+
+### 3.1 Werbekunden
+
+Die Liste der Gründer, ergänzt um weitere Branchen und sortiert nach dem Moment, in dem Werbung am besten passt:
+
+| Segment | Beispiele (Gründer-Liste und *Ergänzungen*) | Passender Moment |
+|---|---|---|
+| Finanzieren & Absichern | Banken, Finanzierungsberater, Versicherungen, *Bausparkassen* | Budget-Rechner, Match, Kaufangebot |
+| Bauen & Modernisieren | Bauträger, Architekten, Handwerker, Sanitär, Heizung, Energieberater, *Solar und Wärmepumpen, Baumärkte* | Detailansicht (Baujahr, Energie), nach dem Kauf |
+| Einrichten & Leben | Einrichtungshäuser, Einrichtungsberater, Küche, Garten, Sport, *Smart Home, Möbel-Onlinehändler, Gartencenter* | Feed, Themen-Feeds, nach der Zusage |
+| Umziehen | Entrümpelungen, *Umzugsunternehmen, Strom- und Gasanbieter, Stadtwerke, Internet und Mobilfunk, Reinigung, Lagerräume* | nach der Zusage (Umzugsplaner) |
+| Vermarkten & Verwalten | Maklerunternehmen, Hausverwaltungen, Facility Management, Fotografen, Videografen | Anbieter-Bereich, Producer |
+| Wohnen im Alter | Seniorenresidenzen, *barrierefreier Umbau, Pflegeberatung* | Suchende, die sich verkleinern; Erben |
+
+Ein Umzug ist einer der stärksten Kaufanlässe überhaupt: neue Möbel, neuer Stromvertrag, neues Internet, Handwerker, Versicherungen. Rund 8 Mio. Menschen ziehen jedes Jahr um. Wer diesen Moment kennt, kann Werbung verkaufen, die nicht stört, sondern hilft.
+
+### 3.2 Werbeformate
+
+| Format | Wo | Preis-Hypothese |
+|---|---|---|
+| Native Werbekarte im Feed (Bild oder Video im Vollbild) | App und Website, höchstens jede 8.–12. Karte | 8–20 € pro 1.000 Einblendungen (TKP) |
+| Werbeflächen auf der Website | Suchergebnisse, Inserats- und Ratgeberseiten | 3–12 € TKP, später auch programmatisch |
+| Dienstleister-Verzeichnis „Profis in der Nähe“ | Detailansicht, Verkaufs- und Vermietungsfahrplan, Umzugsplaner | 29–199 € pro Monat und Eintrag |
+| Sponsoring („präsentiert von“) | Finanzierungsrechner, Wohntyp-Test, Themen-Feeds, Ratgeber | 1.000–10.000 € pro Monat |
+| Bauträger-Projektkampagnen | Feed, Themen-Feed „Neubau“, passende Suchende | 1.000–10.000 € pro Projekt |
+| Partner-Angebote mit Einwilligung (Finanzierung, Umzug, Strom, Internet, Versicherung) | nach Match, Zusage oder im Umzugsplaner | 10–150 € pro Kontakt oder Abschluss |
+| Newsletter „Haus der Woche“ | Sponsor-Platz, nur für Abonnenten mit Einwilligung | nach Reichweite |
+| Branded Content mit Creatorn | Social-Kanäle von immocrush | pauschal nach Reichweite |
+
+### 3.3 Regeln für Werbung
+
+- Immer als „Anzeige“ gekennzeichnet; nie im Steckbrief, in der Inbox, im Chat oder in Match-Benachrichtigungen.
+- Standard ist **kontextbezogene Werbung** (Region, Kauf oder Miete, Objektart, Thema). Personalisierte Werbung nur mit Einwilligung, sensible Daten nie.
+- Nur Werbung, die zum Wohnen und Leben passt.
+- **Wir verkaufen keine Profile.** Partner bekommen Kontaktdaten nur, wenn ein Nutzer im Einzelfall ausdrücklich zustimmt.
+
+## 4. Später dazu – und was wir bewusst nicht machen
+
+**Später möglich:**
+
+- **Markt-Insights** (ab 2029): anonymisierte, aggregierte Nachfrage-Analysen für Banken, Projektentwickler, Investoren und Kommunen, 500–5.000 € pro Monat
+- **Eigentümer-Kontakte:** Eigentümer, die nach dem Nachfrage-Check ausdrücklich mit einem Makler sprechen wollen, 150–400 € pro Kontakt (rechtlich prüfen, siehe [Recht](09-recht-datenschutz-compliance.md))
+- **„Shop the Look“:** Möbel aus virtuell eingerichteten Räumen direkt bei Partnern kaufen (Provision)
+
+**Bewusst nicht:**
+
+- keine Abos oder Vorrang-Pakete für Suchende
+- kein Verkauf von Profilen oder Rohdaten
+- keine eigene Vermittlung als Makler (kein Concierge-Service), damit wir neutral bleiben
+
+## 5. Daten als Ware – richtig gemacht
 
 Der Ausgangstext sagt: „Die Daten sind unsere Ware, mit der wir handeln.“ Das stimmt, wenn man drei Stufen streng trennt:
 
 | Stufe | Was | Erlaubt? | Erlösquelle |
 |---|---|---|---|
-| 1 | **Aggregierte Erkenntnisse:** „In Köln-Nippes suchen 1.240 aktive Käufer nach 3-Zimmer-Wohnungen, Budget-Median 410.000 €, 68 % wünschen Balkon.“ Ausgewertet werden nur Gruppen mit ausreichend vielen Profilen (z. B. mindestens 20), sodass niemand identifizierbar ist. | ja | Markt-Insights, Käufer-Radar, Nachfrage-Check, Preis-Radar |
-| 2 | **Kontakt mit Einwilligung:** Ein Nutzer entscheidet im Einzelfall, dass ein bestimmter Partner sich melden darf („Ja, ich möchte ein Finanzierungsangebot“). | ja, mit ausdrücklicher Einwilligung | Finanzierungs-Kontakte, Dienstleister, Eigentümer-Kontakte |
+| 1 | **Aggregierte Erkenntnisse:** „In Köln-Nippes suchen 1.240 aktive Käufer nach 3-Zimmer-Wohnungen, Budget-Median 410.000 €, 68 % wünschen Balkon.“ Ausgewertet werden nur Gruppen mit ausreichend vielen Profilen (z. B. mindestens 20), sodass niemand identifizierbar ist. | ja | kontextbezogene Werbung, Käufer-Radar, Nachfrage-Check, Preis-Radar, Markt-Insights |
+| 2 | **Kontakt mit Einwilligung:** Ein Nutzer entscheidet im Einzelfall, dass ein bestimmter Partner sich melden darf („Ja, ich möchte ein Finanzierungsangebot“). | ja, mit ausdrücklicher Einwilligung | Partner-Angebote, Finanzierung, Umzug |
 | 3 | **Profile oder Rohdaten verkaufen** | **nein, niemals** | – |
 
 Diese Haltung kommunizieren wir offen („Wir verkaufen keine Profile“). Für viele Nutzer ist genau das der Grund, mehr von sich preiszugeben.
 
-## 4. Beispielrechnung: eine Region im zweiten Jahr
+## 6. Beispielrechnung: bundesweit im zweiten Jahr nach dem Start
 
-Annahmen für die Beispielregion: Großstadt mit Umland, etwa 1,5 Mio. Einwohner, rund 9.500 Verkäufe von Wohnungen und Häusern pro Jahr, davon etwa 1.900 privat. Die Rechnung zeigt eine eingespielte Region mit allen Erlösquellen – unabhängig davon, wann die einzelnen Quellen starten. Alle Zahlen sind Hypothesen, die Phase 0 und die Beta überprüfen.
+Zeitraum: September 2028 bis August 2029. Alle Zahlen sind Hypothesen, die der Warm-up und die Beta überprüfen. „Aktive Nutzer“ heißt: mindestens einmal im Monat da, ob suchend oder zuschauend.
 
 ### Konservativ
 
 | Erlösquelle | Annahme | Erlös pro Jahr |
 |---|---|---|
-| Verkäufer-Plus | 300 Privatinserate, 15 % kaufen, 69 € | 3.105 € |
-| Verkäufer-Premium | 300 Privatinserate, 3 % kaufen, 499 € | 4.491 € |
-| Makler Pro | 40 Büros × 149 € × 12 Monate | 71.520 € |
-| Eigentümer-Kontakte | 150 × 250 € | 37.500 € |
-| Finanzierungs-Kontakte | 15.000 Käuferprofile, 2 % = 300 × 100 € | 30.000 € |
-| Dienstleister & Werbung | 10 Partner × 100 € × 12 Monate | 12.000 € |
-| Bauträger | 4 Projekte × 3.000 € | 12.000 € |
-| Markt-Insights | 2 Kunden × 750 € × 12 Monate | 18.000 € |
-| Käufer-Plus | 150 Abos × 6,99 € × 6 Monate | 6.291 € |
-| Concierge | noch nicht angeboten | 0 € |
-| **Summe** | | **194.907 €** |
+| Extras private Anbieter | 10.000 neue Inserate, 12 % kaufen, Ø 45 € | 54.000 € |
+| Extras gewerbliche Anbieter | 400 Büros, Bauträger und Verwaltungen × Ø 79 € × 12 Monate | 379.200 € |
+| Werbung in Feed und Website | 300.000 aktive Nutzer × 20 Werbeeinblendungen pro Monat × 12, davon 50 % verkauft, 8 € TKP | 288.000 € |
+| Dienstleister-Verzeichnis | 300 Einträge × 49 € × 12 Monate | 176.400 € |
+| Partner-Angebote mit Einwilligung | 3.000 Kontakte oder Abschlüsse × Ø 40 € | 120.000 € |
+| Bauträger-Kampagnen | 20 × 3.000 € | 60.000 € |
+| **Summe** | | **1.077.600 €** |
 
 ### Ambitioniert
 
 | Erlösquelle | Annahme | Erlös pro Jahr |
 |---|---|---|
-| Verkäufer-Plus | 600 Privatinserate, 25 % kaufen, 79 € | 11.850 € |
-| Verkäufer-Premium | 600 Privatinserate, 5 % kaufen, 599 € | 17.970 € |
-| Makler Pro | 120 Büros × 179 € × 12 Monate | 257.760 € |
-| Eigentümer-Kontakte | 400 × 300 € | 120.000 € |
-| Finanzierungs-Kontakte | 30.000 Käuferprofile, 3 % = 900 × 120 € | 108.000 € |
-| Dienstleister & Werbung | 30 Partner × 150 € × 12 Monate | 54.000 € |
-| Bauträger | 12 Projekte × 5.000 € | 60.000 € |
-| Markt-Insights | 5 Kunden × 1.500 € × 12 Monate | 90.000 € |
-| Käufer-Plus | 600 Abos × 6,99 € × 6 Monate | 25.164 € |
-| Concierge | 20 Begleitungen × 2.490 € | 49.800 € |
-| **Summe** | | **794.544 €** |
+| Extras private Anbieter | 50.000 neue Inserate, 15 % kaufen, Ø 55 € | 412.500 € |
+| Extras gewerbliche Anbieter | 2.500 Büros, Bauträger und Verwaltungen × Ø 119 € × 12 Monate | 3.570.000 € |
+| Werbung in Feed und Website | 1.500.000 aktive Nutzer × 20 Werbeeinblendungen pro Monat × 12, davon 70 % verkauft, 12 € TKP | 3.024.000 € |
+| Dienstleister-Verzeichnis | 1.500 Einträge × 69 € × 12 Monate | 1.242.000 € |
+| Partner-Angebote mit Einwilligung | 20.000 Kontakte oder Abschlüsse × Ø 50 € | 1.000.000 € |
+| Bauträger-Kampagnen | 100 × 5.000 € | 500.000 € |
+| **Summe** | | **9.748.500 €** |
 
 ### Was die Rechnung zeigt
 
-- **87–93 % der Erlöse kommen von Unternehmen** (Makler, Finanzierer, Bauträger, Dienstleister, Insight-Kunden). Privatverkäufer und Käufer sind vor allem Inventar und Nachfrage, kaum Umsatz. Das bestätigt den Ansatz „kostenlos im Kern“.
-- **Makler sind der wichtigste Umsatzbringer.** Ohne sie gibt es weder genug Inventar noch genug Erlös. Das Makler-Angebot muss deshalb von Anfang an mitgedacht werden.
-- **Hochrechnung:** Rechnerisch ergeben 15–20 Regionen 2,9–15,9 Mio. € Jahresumsatz. Da nicht alle Regionen so groß sind wie die Beispielregion, planen wir mit einer Größenordnung von **3–12 Mio. € pro Jahr**. Markt-Insights und Werbung lassen sich national besser verkaufen als regional und könnten darüber hinaus wachsen.
+- **Rund 40 % Extras, 60 % Werbung und Partner.** Das entspricht dem Bild der Gründer: Extras und Werbung tragen gemeinsam.
+- **Über 90 % der Erlöse zahlen Unternehmen** (Makler, Bauträger, Verwaltungen, Werbekunden). Private Anbieter und Suchende sind vor allem Inventar, Publikum und Nachfrage. Das bestätigt „kostenlos für alle“.
+- **Gewerbliche Anbieter bleiben wichtig:** Auch wenn ihr Basisangebot kostenlos ist, bringen ihre Extras gut ein Drittel des Umsatzes.
+- **Werbung skaliert mit Reichweite:** Je 100.000 aktive Nutzer kommen nach diesen Annahmen etwa 100.000–200.000 € Werbeumsatz im Jahr zusammen. Unter einigen Hunderttausend Nutzern bleibt Werbung ein Nebenverdienst. Das ist die wichtigste Lehre aus Immomatch: Kostenlos plus Werbung trägt nur mit großer Reichweite.
+- **Umsatz pro aktivem Nutzer:** etwa 3,60 € (konservativ) bis 6,50 € (ambitioniert) im Jahr.
+- **Gewinnschwelle:** Im zweiten Jahr rechnen wir mit Kosten von grob 3–8 Mio. € (Team 1,5–2,5 Mio. €, Marketing 1–4 Mio. €, Infrastruktur und KI 0,3–0,8 Mio. €, Sonstiges 0,3–0,5 Mio. €). Die Gewinnschwelle liegt damit grob bei **0,5–1,2 Mio. aktiven Nutzern im Monat**. Das konservative Szenario macht Verlust, das ambitionierte Gewinn.
 
-## 5. Unit Economics (Hypothesen)
+## 7. Unit Economics (Hypothesen)
 
 | Größe | Hypothese | Bemerkung |
 |---|---|---|
-| Kosten pro Käuferprofil (Quiz abgeschlossen) | ≤ 3 € | wird in Phase 0 getestet |
-| Kosten pro Privatinserat | 30–150 € | Suchanzeigen mit Verkaufsabsicht sind teuer, Nachfrage-Check und Empfehlungen günstiger |
-| Kosten pro zahlendem Makler | 300–1.000 € | Direktvertrieb, Veranstaltungen, Empfehlungen |
-| KI-Kosten pro Inserat | 1–10 € | Kamerafahrten über Fotos sind günstig, generative Clips teurer |
+| Umsatz pro aktivem Nutzer und Jahr | 3,60–6,50 € | aus der Beispielrechnung |
+| Kosten pro neuem aktiven Nutzer über bezahlte Werbung | höchstens 2–3 € | nur so rechnet sich bezahlte Nutzergewinnung |
+| Anteil organisch gewonnener Nutzer | mindestens 50 % | Unterhaltung, Teilen, Suchmaschinen, Presse |
+| Kosten pro Suchendem mit Steckbrief | höchstens 3 € | wird im Warm-up getestet |
+| Kosten pro gewerblichem Anbieter | gering für den kostenlosen Import; 100–500 € Vertrieb für einen zahlenden Kunden | Makler-Events, Direktvertrieb, Empfehlungen |
+| KI-Kosten pro Inserat | unter 1 € (Film aus Fotos mit Kamerafahrten) bis 10 € (mit generativen Extras) | aufwendige KI-Funktionen sind Extras |
 | Infrastruktur pro aktivem Nutzer und Monat | unter 0,10 € | größter Posten: Video-Streaming |
-| Wert eines Makler-Kunden (LTV) | ≈ 3.500 € | 149 € pro Monat × 85 % Marge × rund 28 Monate Laufzeit |
-| Verhältnis LTV zu Gewinnungskosten (Makler) | 3,5 bis 12 | Ziel: über 3 |
+| Werbe-TKP direkt verkauft | 8–12 € | programmatisch deutlich weniger |
 
-**Wichtig:** Ein Privatinserat bringt direkt im Schnitt nur rund 25 € (konservativ). Bezahlte Werbung für Privatverkäufer rechnet sich deshalb nicht direkt. Ihr Wert liegt im Inventar, das Käufer anzieht. Privatverkäufer gewinnen wir vor allem über günstige Kanäle: Nachfrage-Check, Suchmaschinen, Empfehlungen, QR-Schilder.
+**Wichtig:** Bezahlte Werbung für Nutzergewinnung rechnet sich nur, wenn Nutzer bleiben und andere mitbringen. Deshalb sind Unterhaltung, Teilen und Suchmaschinen keine Nebensache, sondern Teil der Wirtschaftlichkeit. Private Anbieter gewinnen wir über günstige Kanäle: „kostenlos inserieren“ in der Google-Suche, Nachfrage-Check, Empfehlungen, QR-Schilder.
 
-## 6. Kosten und Kapitalbedarf
+## 8. Kosten und Kapitalbedarf
 
 | Phase | Zeitraum | Bedarf | Wofür |
 |---|---|---|---|
-| 0 · Validierung | Nov 2026 – Jan 2027 | 15–35 Tsd. € | Landingpage und Web-Quiz, Werbetests (5–10 Tsd. €), Design-Prototyp, Markenanmeldung, rechtliche Erstberatung |
-| 1 · MVP und Startregion | Feb 2027 – Anfang 2028 (ca. 12 Monate) | 0,6–1,1 Mio. € | Team (40–65 Tsd. € pro Monat), Marketing in der Startregion (100–250 Tsd. €), Infrastruktur, KI und Recht (50–100 Tsd. €) |
-| 2 · Expansion | 2028 | 3–7 Mio. € | 3–5 weitere Regionen, Makler-Vertrieb, Markenaufbau |
+| 0 · Warm-up | Nov 2026 – Jan 2027 | 15–35 Tsd. € | Landingpage und Web-Quiz, Werbetests (5–10 Tsd. €), Design-Prototyp, Markenanmeldung, rechtliche Erstberatung |
+| 1 · Entwicklung bis zum Launch | Feb – Aug 2027 | 0,45–0,7 Mio. € | Team (55–85 Tsd. € pro Monat), Einmalkosten (20–50 Tsd. €), Infrastruktur, Werkzeuge, Recht |
+| 2 · Erste 12 Monate nach dem Launch (netto nach Einnahmen) | Sep 2027 – Aug 2028 | **Fokus** 0,9–2,4 Mio. € · **Vollgas** 2,4–4,4 Mio. € · **Vollgas mit TV** 4,4–7,4 Mio. € | siehe Annahmen unten |
+| **Summe bis Herbst 2028** | | **Fokus 1,3–3,1 Mio. € · Vollgas 2,8–5,1 Mio. € · Vollgas mit TV 4,8–8,1 Mio. €** | |
 
-Größte Kostenblöcke sind das Team und die Nutzergewinnung. Infrastruktur und KI bleiben in der Startphase klein, wachsen aber mit jedem Video.
+Annahmen für die ersten 12 Monate nach dem Launch (gerundet):
 
-## 7. Finanzierung
+| Posten | Fokus | Vollgas | Vollgas mit TV |
+|---|---|---|---|
+| Team (10–15 Personen) | 0,8–1,2 Mio. € | 0,8–1,2 Mio. € | 0,8–1,2 Mio. € |
+| Infrastruktur, KI, Werkzeuge, Recht | 0,15–0,35 Mio. € | 0,15–0,35 Mio. € | 0,15–0,35 Mio. € |
+| Marketing | 0,5–1 Mio. € | 2–3 Mio. € | 4–6 Mio. € |
+| Einnahmen (Extras, Gründungs-Werbepartner) | 0,2–0,6 Mio. € | 0,2–0,6 Mio. € | 0,2–0,6 Mio. € |
 
-1. **Phase 0 aus eigenen Mitteln** (oder mit wenigen Business Angels). Ziel: belastbare Zahlen statt Folien.
-2. **Pre-Seed-Runde, 1–1,5 Mio. €, im ersten Quartal 2027:** Business Angels aus der Immobilienbranche und der Proptech-Szene, frühphasige Fonds. Förderprogramme von Bund und Ländern prüfen.
-3. **Seed-Runde, 3–7 Mio. €, im ersten Halbjahr 2028:** auf Basis der Kennzahlen aus der Startregion (gegenseitige Matches pro Woche, Wiederkehrrate, zahlende Makler).
-4. **Strategische Investoren** (Banken, Baufinanzierer, Portale) erst später und ohne Exklusivität. Sonst leidet die Neutralität, und Makler oder Nutzer verlieren das Vertrauen.
+Was die Szenarien bedeuten, steht im [Go-to-Market](07-go-to-market-strategie.md): **Fokus** heißt bundesweit online sichtbar plus Schwerpunkt in 2–3 Fokusstädten; **Vollgas** zusätzlich Connected TV, Radio, Plakate und Kino in mehr Städten; **Vollgas mit TV** zusätzlich eine bundesweite TV-Kampagne.
 
-Mögliche Exits stehen in [Markt & Wettbewerb](02-markt-und-wettbewerb.md), Abschnitt 7.
+## 9. Finanzierung ohne Investoren
 
-## 8. Preisprinzipien
+Die Gründer wollen keine Investoren. Das ist machbar, bestimmt aber, wie viel Vollgas möglich ist.
 
-1. **Der Kern ist kostenlos.** Suchen, Inserieren, Matchen und Basis-Studio kosten nichts.
-2. **Wer verdient, zahlt.** Makler, Bauträger, Finanzierer und Dienstleister finanzieren die Plattform.
-3. **Keine gekauften Vorteile im Matching.** Bezahlte Sichtbarkeit gibt es nur im Feed und immer gekennzeichnet; den Match-Wert und die Reihenfolge in der Inbox kann niemand kaufen.
-4. **Einfache Preise.** Wenige Pakete, Makler-Abos monatlich kündbar.
-5. **Gründungspartner belohnen.** Die ersten Makler in der Startregion nutzen Pro bis Ende März 2028 kostenlos und behalten danach einen Rabatt.
-6. **Verkauf über die Website.** Pakete und Abos laufen über Stripe auf der Website. Für digitale Extras, die in der App gekauft und genutzt werden, verlangen Apple und Google In-App-Käufe mit 15–30 % Gebühr. In der EU gibt es nach dem Digital Markets Act Alternativen mit eigenen Gebühren. Dienstleistungen außerhalb der App (z. B. ein Fotografentermin) sind davon nicht betroffen. Die aktuellen Store-Regeln prüfen wir vor jedem Bezahl-Feature.
+| Quelle | Größenordnung | Bemerkung |
+|---|---|---|
+| Eigenkapital der Gründer | offen | entscheidet am stärksten über das Szenario |
+| Förderkredite (KfW, Landesförderbanken) über die Hausbank | für Gründungen meist bis in den niedrigen sechsstelligen Bereich | Businessplan, ggf. Sicherheiten; persönliche Haftung prüfen |
+| Zuschüsse (Förderprogramme für Digitalisierung und Innovation, Gründerstipendien) | meist fünf- bis niedrig sechsstellig | aufwendig, zweckgebunden |
+| Gründungs-Werbepartner: vorverkaufte Werbepakete | realistisch 0,1–0,5 Mio. €, mit starken Partnern bis 1 Mio. € | 5–10 Partner aus verschiedenen Branchen (Bank oder Bausparkasse, Einrichtungshaus, Energieversorger, Umzug, Versicherung), je ein Jahr Werbung, Exklusivität in ihrer Branche. Das ist Umsatz des ersten Jahres, der früher in die Kasse kommt – er senkt den Bedarf nicht zusätzlich, hilft aber vor dem Start. |
+| Crowdinvesting über Nachrangdarlehen | 0,1–2 Mio. € | Geld ohne Mitsprache und ohne Firmenanteile, dafür Zinsen; zugleich Marketing, weil Unterstützer zu Fans werden |
+| Media-for-Revenue | Werbezeit statt Geld | Ein Medienhaus stellt Werbezeit gegen eine Umsatzbeteiligung. Seltener als Media-for-Equity – das wäre wieder eine Beteiligung. |
+| Umsatzbasierte Finanzierung | später, ab regelmäßigen Umsätzen | Rückzahlung als fester Anteil am Umsatz |
+
+### Ehrliche Einordnung
+
+- **Fokus (1,3–3,1 Mio. €)** ist ohne Investoren realistisch, wenn Eigenkapital, Förderkredite und Gründungs-Werbepartner zusammenkommen.
+- **Vollgas (2,8–5,1 Mio. €)** geht nur mit erheblichem Eigenkapital oder sehr starken Werbe- und Medienpartnern.
+- **Vollgas mit TV (4,8–8,1 Mio. €)** ist ohne Investoren kaum zu stemmen – es sei denn, ein Medienpartner stellt die TV-Werbung gegen Umsatzbeteiligung.
+- **Empfehlung:** Mit „Fokus“ planen, „Vollgas“ vorbereiten und die Stufe zünden, sobald die Zahlen aus der Beta stimmen und das Geld da ist. So bleibt die Unabhängigkeit erhalten, und kein Euro geht in Reichweite, die das Produkt noch nicht halten kann.
+- **Plan B, falls das Geld nicht reicht:** eine Minderheitsbeteiligung ohne Kontrolle, Business Angels mit Medien- oder Branchenzugang oder ein strategischer Partner. „Die Höhle der Löwen“ wäre genau so ein Weg (siehe [Go-to-Market](07-go-to-market-strategie.md)).
+
+## 10. Preisprinzipien
+
+1. **Kostenlos für alle im Kern.** Suchende zahlen nie. Inserieren, Matchen und Basis-Producer kosten auch Anbieter nichts, privat wie gewerblich.
+2. **Wer mehr Sichtbarkeit will, zahlt.** Extras sind freiwillig und immer gekennzeichnet.
+3. **Niemand kauft sich nach vorn.** Den Match-Wert und die Reihenfolge in der Inbox kann niemand kaufen.
+4. **Werbung passt zum Wohnen** und stört nicht: höchstens jede 8.–12. Karte, nie in Steckbrief, Inbox oder Chat.
+5. **Einfache Preise.** Einzelne Extras, wenige Pakete, Monatspakete monatlich kündbar.
+6. **Gründungspartner belohnen.** Die ersten Makler, Bauträger und Hausverwaltungen nutzen Sichtbarkeits-Pakete und Pro-Werkzeuge bis Ende März 2028 kostenlos und behalten danach einen Rabatt. Gründungs-Werbepartner bekommen Branchen-Exklusivität im ersten Jahr.
+7. **Verkauf über die Website.** Extras und Pakete laufen über Stripe auf der Website. Für digitale Extras, die in der App gekauft und genutzt werden, verlangen Apple und Google In-App-Käufe mit 15–30 % Gebühr. In der EU gibt es nach dem Digital Markets Act Alternativen mit eigenen Gebühren. Dienstleistungen außerhalb der App (z. B. ein Fotografentermin) sind davon nicht betroffen. Die aktuellen Store-Regeln prüfen wir vor jedem Bezahl-Feature.

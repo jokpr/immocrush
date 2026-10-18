@@ -1,6 +1,6 @@
 # 00 · Ausgangstext
 
-> Die ursprüngliche Idee, inhaltlich unverändert. Nur Leerzeilen und Einrückungen wurden für Markdown angepasst.
+> Die ursprüngliche Idee, inhaltlich unverändert. Nur Leerzeilen und Einrückungen wurden für Markdown angepasst. Spätere Ergänzungen der Gründer stehen datiert am Ende.
 
 ---
 
@@ -103,3 +103,56 @@ immocrush.de
 
 - .berlin
 - .click
+
+---
+
+## Ergänzung vom 18. Oktober 2026
+
+Wir müssen das Rad nicht grundsätzlich neu erfinden. Wir orientieren uns an Immoscout und Immowelt, ggf auch Kleinanzeigen. Es gibt kein anderes relevantes Portal darüber hinaus. Bei meiner Recherche nach einem modernen Angebot hab ich nichts Nennenswertes gefunden.
+
+Es gibt Immomatch. Eine Demo Version einer App, die sehr langweilig und noch nicht fertig ist aus meiner Sicht. Dann CasaStream. Mit wenigen aktiven Angeboten. Auch nicht wirklich gut gemacht. Keine Filme.
+
+Allein die Tatsache, dass man nichts direkt findet, zeigt ja, dass es nicht gut gelöst ist.
+
+Immocrush muss in Google sofort erscheinen, wenn man Immobiliensuche eingibt.
+Als kostenloses Portal für Anbieter und Suchende. Es soll so attraktiv gemacht sein, dass man sich das auch anschaut, wenn man gar keine Immobilie sucht. Als Entertainment.
+
+Anbieter sind Makler und Private. Bereits für social media produzierte Filme und Beiträge zu aktuellen Immobilienangeboten können hochgeladen werden. Wer diese Möglichkeit nicht hat, bekommt bei uns Unterstützung mit KI ein attraktives Angebot zu erstellen. Es muss natürlich kinderleicht sein. (Producer Bereich)
+
+Meine Marktbeobachtung bestätigt mir jeden Tag, dass es mehr und mehr Angebote von Privat gibt. Über Ohne Makler. Die Seite ist echt boring. Diese Anzeigen sind für die Anbieter allerdings nicht kostenlos. Ohne Makler schaltet die Anzeigen je nach Paket welches man bucht bei den üblichen Portalen und das kostet ab 129,- pro Monat. Deshalb soll es bei Immocrush umsonst sein. So bekommen wir schnell viele Kunden. Damit auch Werbeeinnahmen. Ich stelle es mir vor wie bei Instagram - man zahlt nichts, es sei denn man nimmt besondere Dienste in Anspruch. Wie zum Beispiel besondere Platzierungen, Hervorhebungen, besonders große Anzeigen bzw lange Videos… irgendwie so.
+
+Auch für gewerbliche Anbieter (Makler, Bauträger) soll das Basis Angebot kostenlos sein.
+
+Suchkunden (Miete und Kauf) haben die Möglichkeit ein detailliertes Profil zu erstellen. Interaktiv führen wir sie durch und erhalten spielerisch viele Informationen, die über die Hardfacts hinaus gehen. Am Ende erhalten sie einen Steckbrief, den sie den Anbietern zukommen lassen können.
+
+Anbieter - besonders von Mietwohnungen - können so gezielter filtern und müssen nicht nach 5 Minuten die Angebote rausnehmen, um nicht komplett den Überblick zu verlieren. Man muss sicher viele Regeln im Hinblick auf Fairness beachten.
+
+Die Matches (die anderen nennen es „neue Angebote“) bekommt man per mail oder über die App angezeigt. Das Swipen find ich gut. So bekäme man immer ein Angebot nach dem anderen angezeigt, groß auf dem ganzen Display und nicht eine ganze Reihe. Das ist doch deutlich attraktiver.
+
+Unser Geld verdienen wir mit den Extras wie zum Beispiel besondere Platzierungen, Hervorhebungen, besonders große Anzeigen bzw lange Videos… und der Werbung
+
+Da wir mehr auf Lifestyle und Lebensgefühl bei der Immobiliensuche setzen, kommt einiges zusammen.
+
+Einrichtung, Küche, Garten, Sport, etc und natürlich :
+
+- Banken
+- Finanzierungsberater
+- Bauträger
+- Architekten
+- Handwerker
+- Hausverwaltungen
+- Maklerunternehmen
+- Energieberater
+- Entrümpelungen
+- Versicherungen
+- Fotografen, Videografen
+- Senioren Residenzen
+- Facility Management
+- Einrichtungsberater
+- Einrichtungshäuser
+- Sanitär
+- Heizung
+
+Beim Marketing müssen wir direkt Vollgas geben, so dass man an uns nicht mehr vorbei kommt.
+
+Google, Insta, Linkedin, Tiktok, TV (Höhle der Löwen, obwohl ich keine Investoren will), fällt dir noch was ein?
