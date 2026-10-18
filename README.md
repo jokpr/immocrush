@@ -33,7 +33,7 @@ Geplant sind eine **Website** sowie **Apps für iOS und Android**.
 
 ## Wichtigste Erkenntnisse aus der Recherche
 
-1. **Es gibt keinen modernen Herausforderer.** Immomatch ist eingestellt (App entfernt, Firma liquidiert), CasaStream hat kaum Inventar und keine Filme. Maßstab sind ImmoScout24, immowelt und Kleinanzeigen.
+1. **Es gibt keinen modernen Herausforderer.** Immomatch ist praktisch eingestellt (App aus Google Play entfernt, eine ImmoMatch GmbH 2025 gelöscht), CasaStream hat kaum Inventar und keine Filme. Maßstab sind ImmoScout24, immowelt und Kleinanzeigen.
 2. **Die Zahlungsbereitschaft ist da – wir nutzen sie anders.** ohne-makler.net verlangt 129–399 € pro Verkaufsinserat, ImmoScout24 verkauft Suchenden ein Abo für bis zu 39,99 € im Monat. Bei immocrush sind Inserieren und Suchen kostenlos.
 3. **Die Miete ist der größte Schmerz.** Auf die meistgesuchten Berliner Mietwohnungen kommen im Schnitt 373 Anfragen am Tag. Seit Januar 2026 regeln die Datenschutzbehörden genau, was Vermieter wann fragen dürfen – unser Steckbrief folgt diesen Stufen.
 4. **„Sofort bei Google“ geht nur mit Anzeigen.** In den normalen Suchergebnissen dauert „Immobiliensuche“ Jahre; lokale Suchbegriffe und Videos gehen deutlich schneller.
